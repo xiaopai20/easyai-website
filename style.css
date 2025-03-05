@@ -8,16 +8,12 @@
         text-align: center;
         background: #1e1e1e;
         color: #d4d4d4;
-        min-height: 100vh;
-        height: 100vh;
+        height: 100%;
         display: flex;
         flex-direction: column;
     }
     .full-width {
         width: 100%;
-    }
-    .full-height {
-        height: 100%;
     }
     .hero {
         background: #252526;
