@@ -1,0 +1,73 @@
+
+<!-- style.css -->
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        background: #1e1e1e;
+        color: #d4d4d4;
+    }
+    .hero {
+        background: #252526;
+        color: #d4d4d4;
+        padding: 50px 20px;
+        text-align: center;
+    }
+    .hero h1 {
+        font-size: 3.5em;
+        margin: 0;
+        color: #569cd6;
+    }
+    .hero p {
+        font-size: 1.5em;
+        margin: 10px 0;
+        color: #9cdcfe;
+    }
+    nav {
+        margin-top: 15px;
+    }
+    .btn {
+        display: inline-block;
+        padding: 12px 24px;
+        margin: 5px;
+        background: #007acc;
+        color: white;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 1.2em;
+        transition: 0.3s;
+    }
+    .btn:hover {
+        background: #569cd6;
+    }
+    main {
+        padding: 50px 20px;
+    }
+    section {
+        background: #252526;
+        padding: 40px;
+        margin: 20px auto;
+        max-width: 800px;
+        border-radius: 12px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    }
+    .large-text {
+        font-size: 2.5em;
+        color: #9cdcfe;
+    }
+    .medium-text {
+        font-size: 1.5em;
+        color: #dcdcaa;
+    }
+    .highlighted-email {
+        font-size: 1.2em;
+        color: #ffeecc;
+        font-weight: bold;
+    }
+    h1, h2 {
+        color: #569cd6;
+    }
+</style>
