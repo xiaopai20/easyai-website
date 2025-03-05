@@ -76,6 +76,11 @@
         color: #dcdcaa;
         text-align: center;
     }
+    .small-text {
+        font-size: 1.2em;
+        color: #dcdcaa;
+        text-align: center;
+    }
     .highlighted-email {
         font-size: 1.2em;
         color: #ffeecc;
